@@ -18,7 +18,8 @@ You'll need to access the property of each persons `githubUsername` property.
 
 Prompt the player to pick one of the people by displaying a randomly selected name.
 
-Here is a handy function to generate a random number given a minimum and maximum.
+
+Here is a handy function to generate a random number given a minimum and maximum. 
 
 ```JavaScript
 function randomNumber(min, max){
